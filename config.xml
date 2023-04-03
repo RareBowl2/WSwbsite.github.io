@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/WebAppTest" version="1.0.0" viewmodes="fullscreen">
     <tizen:application id="2jeOLnuHSi.WebAppTest" package="2jeOLnuHSi" required_version="7.0"/>
     <author href="https://rarebowl2.github.io/WSwbsite.github.io/" email="wyatt_saunders18@outlook.com">Wyatt Saunders</author>
-    <content src="index.html"/>
+    <content src="ElonMuskSim.html"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
     <icon src="bq8RcTlm_400x400.png"/>
     <license href="http://www.apache.org/licenses/LICENSE-2.0">apache license</license>
