@@ -3,19 +3,16 @@
 }
 
 body {
-    margin: 0px auto;
     background-color:#eddbad;
 }
 
 .melonmuskstyle{
-  margin-left: auto;
-  margin-right: auto;
-  width: 200%;
+  bottom: 0;
+  right: 0;
 }
 
 .contents {
 	color:black;
-	position:relative; left:10px; top:-300px;
 	font-size:10px;
 	display: flex;
 	display: -webkit-flex;
