@@ -1,3 +1,5 @@
+
+
 * {
     font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
 }
@@ -7,20 +9,27 @@ body {
 }
 
 .melonmuskstyle{
-  bottom: 0;
-  right: 0;
+	position: absolute;
+ 	top: 0px;
+ 	left: 0px;
 }
 
-.contents {
-	color:black;
-	font-size:10px;
-	display: flex;
-	display: -webkit-flex;
-	box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	height:320px;
+.ElonMuskTitle {
+	position: absolute;
+	top: 180px;
+	left: 50px;
+	color: transparent;
+	animation-name: titleFade;
+	animation-duration: 2s;
+	animation-fill-mode: forwards;
+	font-weight:bold;
+	font-size:50px;
 }
 
+@keyframes titleFade{
+	0%{text-shadow: tan 0px 0 100px;}
+	100%{text-shadow: black 0px 0 1px;}
+}
 
 
 .content_text {
