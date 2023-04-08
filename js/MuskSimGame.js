@@ -41,7 +41,8 @@ function animate(){
 
 }
 
+function fun(){
+    console.log("yay");
+}
+
 animate();
-
-
-
